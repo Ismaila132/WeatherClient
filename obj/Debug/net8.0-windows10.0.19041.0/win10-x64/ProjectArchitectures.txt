@@ -1,0 +1,1 @@
+C:\Projmaui6\WeatherClient.csproj;x64
